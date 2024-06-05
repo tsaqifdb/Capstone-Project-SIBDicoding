@@ -33,6 +33,6 @@ https://www.figma.com/design/fodxXtiC53kdJfPzFbkmdh/Capstone-Project-DICODING?no
 ```
 ### Database
 ```
-https://drive.google.com/drive/folders/1OKSudghqbFNg5UnrIi4MHuTuu4Z1tdJ2?usp=sharing
+https://github.com/thoriqarr21/makanan-api
 ```
 ## Overall Project Progress 65%
