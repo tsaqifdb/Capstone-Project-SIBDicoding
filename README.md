@@ -1,7 +1,7 @@
 # Capstone Project SIB Dicoding Batch 6
 
 ### Team Capstone
-ID Team : C624-PS114
+ID Team : `C624-PS114`
 
 [F2376YB251] Gilang Setiawan Putra (Project Manager + Front-end)
 
