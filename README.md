@@ -35,4 +35,4 @@ https://www.figma.com/design/fodxXtiC53kdJfPzFbkmdh/Capstone-Project-DICODING?no
 ```
 https://github.com/thoriqarr21/makanan-api
 ```
-## Overall Project Progress 50%
+## Overall Project Progress 90%
